@@ -226,6 +226,7 @@ header nav ul li {
 section.top {
     padding: 40px 4%;
     background: url('../images/cloud.png') no-repeat;
+    background-size: cover;
 }
 section.top .flex{
     align-items: center;
